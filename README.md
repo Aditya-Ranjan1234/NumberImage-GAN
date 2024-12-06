@@ -32,7 +32,8 @@ This project is a beginner implementation of a Generative Adversarial Network (G
 - The GAN generates synthetic images of handwritten digits.  
 - Below is an example of generated images after training:
 
-![Sample Images](generated_samples/sample.png)
+![](initial.png)
+![](250epochs.png)
 
 ## Learnings
 - Basics of GAN architecture.
